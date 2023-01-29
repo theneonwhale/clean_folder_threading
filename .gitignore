@@ -1,0 +1,5 @@
+clean_folder/__pycache__
+dist/
+*.egg-info/
+build/
+.idea/
